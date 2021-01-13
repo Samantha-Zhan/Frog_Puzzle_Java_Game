@@ -4,3 +4,8 @@ Frog Puzzle is a recreation of one of my favourite games called *Frog Puzzle, Lo
 
 ## Instruction
 ![](https://github.com/Samantha-Zhan/Frog_Puzzle_Java_Game/blob/main/InstructionPage!.jpg)
+
+## Sample pages
+Home Page             |  Level Page
+:-------------------------:|:-------------------------:
+<img src="https://github.com/Samantha-Zhan/Frog_Puzzle_Java_Game/blob/main/Home%20Page.PNG" width="330" height="500"> |  <img src="https://github.com/Samantha-Zhan/Frog_Puzzle_Java_Game/blob/main/Level%20Page.PNG?raw=true" width="330" height="500">
