@@ -4,6 +4,8 @@ Frog Puzzle is a recreation of one of my favourite games called *Frog Puzzle, Lo
 
 Built using: Java and build in Java build in GI.
 
+<strong>>>>>Play by downloading the FrogPuzzle.jar file<<<<<</strong>
+
 ## Instruction
 <img src="https://github.com/Samantha-Zhan/Frog_Puzzle_Java_Game/blob/main/InstructionPage!.jpg" width="330" height="500">
 
